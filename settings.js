@@ -19,7 +19,7 @@ global.bot_language = 'lus' // support language [English, Mizo, Indonesia, Russi
 
 
 //info
-global.owner = ['917085345102'] // I phone number in thlak rawh
+global.owner = ['919366928699'] // I phone number in thlak rawh
 global.ownernumber = '919366928699' // I phone number in thlak rawh
 global.ownername = "Baby monster👻" // I hming dah tel bawk la
 global.location = "India, Mizoram, Aizawl" // I awmna hmun daha
