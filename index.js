@@ -51,7 +51,7 @@ nocache('../index.js', module => console.log(color('[ CHANGE ]', 'green'), color
 require('./tobebot.js')
 nocache('../tobebot.js', module => console.log(color('[ CHANGE ]', 'green'), color(`'${module}'`, 'green'), 'Updated'))
 
-let phoneNumber = "918416093656"
+let phoneNumber = "917085345102"
 const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code")
 const useMobile = process.argv.includes("--mobile")
 
