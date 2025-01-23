@@ -190,9 +190,9 @@ axios.get(fileUrl, { responseType: 'stream' })
             console.log(color(`
 ╭═══❏ ${chalk.bold.red(`[ BOT INFORMATION ]`)} ❏
 ┃𒆜┌───┈
-┃𒆜│${chalk.bold.blue(`Creator:`)} Herbert Suantak
-┃𒆜│${chalk.bold.blue(`YT Channel:`)} HBMods OFC
-┃𒆜│${chalk.bold.blue(`Instagram:`)} herbert_suantak2
+┃𒆜│${chalk.bold.blue(`Creator:`)} ۝AstrO۝
+┃𒆜│${chalk.bold.blue(`YT Channel:`)} ASTRO PLAYS
+┃𒆜│${chalk.bold.blue(`Instagram:`)} ka_ning_ka_kal_dawn
 ┃𒆜│${chalk.bold.blue(`Bot Name:`)} ${botname}
 ┃𒆜│${chalk.bold.blue(`Prefix:`)} ${prefixc}
 ┃𒆜│${chalk.bold.blue(`Owner Number:`)} ${owner}
