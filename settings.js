@@ -21,19 +21,19 @@ global.bot_language = 'lus' // support language [English, Mizo, Indonesia, Russi
 //info
 global.owner = ['917085345102'] // I phone number in thlak rawh
 global.ownernumber = '917085345102' // I phone number in thlak rawh
-global.ownername = "۝AstrO۝" // I hming dah tel bawk la
+global.ownername = "J Rohluosang Editz"// I hming dah tel bawk la
 global.location = "India, Manipur, Churachandpur" // I awmna hmun daha
-global.botname = "۝AstrO۝" // I bot hming tur dah la
+global.botname = "J Rohluosang Editz"// I bot hming tur dah la
 global.ownerweb = "https://youtube.com/@HBMods_Channel"
 global.themeemoji = '🤖'
 global.creator = "917085345102@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
 
 global.ownerNumber = ["917085345102@s.whatsapp.net"]// @ symbol hmaa number hi i phone number in thlak rawh
-global.prefixc = ['±'] // Prefix a tana hman theih loh tur symbolise a awm nuala, i bot a work a lo a nih chuan i thlak mai dawn nia
+global.prefixc = [''] // Prefix a tana hman theih loh tur symbolise a awm nuala, i bot a work a lo a nih chuan i thlak mai dawn nia
 global.sessionName = 'session'
 
 // Sticker Pack Name
-global.packname = "HUI HUII"
+global.packname = "J Rohluosang Editz"
 global.author = "۝AstrO۝"
 
 //BUTTON INPUT 
@@ -42,7 +42,7 @@ global.buttonyturl = "https://youtube.com/@HBMods_Channel"
 global.buttonig = "Follow Us:)"
 global.buttonigurl = "https://www.instagram.com/ka_ning_ka_kal_dawn"
 //_______________________________________________
-global.defaultpp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60'
+global.defaultpp = 'https://files.catbox.moe/bb64oo.jpg'
 //messages
 global.mess = {
     success: '\n*©۝AstrO۝*!', 
